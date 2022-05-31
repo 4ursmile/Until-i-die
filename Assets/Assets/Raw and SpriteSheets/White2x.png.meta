@@ -1,0 +1,1310 @@
+fileFormatVersion: 2
+guid: 8b958061714925845903ac12b8c3ba4f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 16
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: White2x_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 625.8333
+        width: 105.77778
+        height: 125.166664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c2bc09900f3e04a8e0f58f3e085402
+      internalID: 26794818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White2x_1
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 625.8333
+        width: 105.77778
+        height: 125.166664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e78c98e2c195145a1d0c0a9c72883f
+      internalID: 947055490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White2x_2
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 625.8333
+        width: 105.77778
+        height: 125.166664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b986111e0a619ad45896b5b06c3da2ec
+      internalID: -1425557832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White2x_3
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 625.8333
+        width: 105.77778
+        height: 125.166664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c47cbb909bf604292df1837455cc46
+      internalID: 1029913776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White2x_4
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 625.8333
+        width: 105.77778
+        height: 125.166664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af418754255d63c43a36ef9fb925cbff
+      internalID: -802058500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White2x_5
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 625.8333
+        width: 105.77778
+        height: 125.166664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b396048e4bb9c5e4994f89fa938bc2fc
+      internalID: 1861764711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White2x_6
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 625.8333
+        width: 105.77778
+        height: 125.166664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02eb1a9d9bccee049a16d321913371fa
+      internalID: -1634301851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White2x_7
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 625.8333
+        width: 105.77778
+        height: 125.166664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba5407ede701a6499122797ab8e6814
+      internalID: -877316808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White2x_8
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 625.8333
+        width: 105.77778
+        height: 125.166664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66d0768fb25d9ef4595365f930a199d8
+      internalID: 2098883655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White2x_9
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 500.83334
+        width: 105.77778
+        height: 125.166664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb9950321de08a45b01ea3a610e0d49
+      internalID: -538673564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White2x_10
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 500.83334
+        width: 105.77778
+        height: 125.166664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab36e4150cca1a64cad461cd6209ea69
+      internalID: 836634440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White2x_11
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 500.83334
+        width: 105.77778
+        height: 125.166664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d079a5aae2d22845a5a0071082572b8
+      internalID: 552298326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White2x_12
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 500.83334
+        width: 105.77778
+        height: 125.166664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80abffbdf50a5584180b783de4604fa8
+      internalID: 801435148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White2x_13
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 500.83334
+        width: 105.77778
+        height: 125.166664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfdc1c35623fd68448dc95c29fc00a51
+      internalID: -2074434702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White2x_14
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 500.83334
+        width: 105.77778
+        height: 125.166664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9aff8db3f5d2554a8e0de6a23f193d6
+      internalID: -2127916425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White2x_15
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 500.83334
+        width: 105.77778
+        height: 125.166664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 917112f8e699e6a47a1a9670c6f31911
+      internalID: -350380668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White2x_16
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 500.83334
+        width: 105.77778
+        height: 125.166664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9821414f15301354bacaa2149e5d40e3
+      internalID: 1879786778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White2x_17
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 500.83334
+        width: 105.77778
+        height: 125.166664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a871c486a455c084dad5199faa915fa1
+      internalID: -428112789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White2x_18
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 375.83334
+        width: 105.77778
+        height: 125.166664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d9a52b6a9b00a848a1f54208a6e49af
+      internalID: -589372022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White2x_19
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 375.83334
+        width: 105.77778
+        height: 125.166664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ed58e20a1f49c34d89820f50ccf3604
+      internalID: -275295531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White2x_20
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 375.83334
+        width: 105.77778
+        height: 125.166664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6300ab3ba7b2bd046b4f9c119da47b69
+      internalID: -1318209661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White2x_21
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 375.83334
+        width: 105.77778
+        height: 125.166664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5937d4b23fe5da43bf3d3f4ecaa0a43
+      internalID: -504470206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White2x_22
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 375.83334
+        width: 105.77778
+        height: 125.166664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f9030ebb5587414d9c9f8dad820d306
+      internalID: 330414372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White2x_23
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 375.83334
+        width: 105.77778
+        height: 125.166664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c695b5f84ce09c740b5a6fa7bb674c5d
+      internalID: -513882253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White2x_24
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 375.83334
+        width: 105.77778
+        height: 125.166664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0837f9fa28cfba4dba3f49a7009d94d
+      internalID: 50629711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White2x_25
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 375.83334
+        width: 105.77778
+        height: 125.166664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae28cbc3f66cb274894c6c419b05a2aa
+      internalID: 181054276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White2x_26
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 375.83334
+        width: 105.77778
+        height: 125.166664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b57ccc0ae023e564db9bc9a5444f4ebf
+      internalID: -1259186140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White2x_27
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 250.83334
+        width: 105.77778
+        height: 125.166664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f781f76ce705f4a875b5205ac5ad2b
+      internalID: -1169242547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White2x_28
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 250.83334
+        width: 105.77778
+        height: 125.166664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa686469a14b1c43b7e31cb80c64832
+      internalID: -316611028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White2x_29
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 250.83334
+        width: 105.77778
+        height: 125.166664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a383cb23dea662b489db3f03c5f8eba5
+      internalID: 1131392723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White2x_30
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 250.83334
+        width: 105.77778
+        height: 125.166664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d02e65478fd2e4e8fd648aa2d47ad1
+      internalID: 157680152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White2x_31
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 250.83334
+        width: 105.77778
+        height: 125.166664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a86969bd77a0d4d8288ea780c4cd8f
+      internalID: 615900914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White2x_32
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 250.83334
+        width: 105.77778
+        height: 125.166664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3998723b73e9054b83480fffb611c52
+      internalID: 738277378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White2x_33
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 250.83334
+        width: 105.77778
+        height: 125.166664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b131ee64bc2b07041bbff418438ee91e
+      internalID: 684362373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White2x_34
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 250.83334
+        width: 105.77778
+        height: 125.166664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec0fbce8db1a884a8b4ac3cbf9e7e36
+      internalID: -1193895856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White2x_35
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 250.83334
+        width: 105.77778
+        height: 125.166664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1964a367838da1845b64160733f810a8
+      internalID: 356626359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White2x_36
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 125.833336
+        width: 105.77778
+        height: 125.166664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99754f073eaee2d4491fdfe39591e7bf
+      internalID: 53914859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White2x_37
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 125.833336
+        width: 105.77778
+        height: 125.166664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 459aabdce95094440ac73bc0190ef302
+      internalID: 1474180251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White2x_38
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 125.833336
+        width: 105.77778
+        height: 125.166664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0277174bae1f5841955633e6697b344
+      internalID: -1952927662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White2x_39
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 125.833336
+        width: 105.77778
+        height: 125.166664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee3309d6b2ce564ea628689285218e6
+      internalID: -695061590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White2x_40
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 125.833336
+        width: 105.77778
+        height: 125.166664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7714ce534edc4478e26e24fa6defcf
+      internalID: -1112171275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White2x_41
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 125.833336
+        width: 105.77778
+        height: 125.166664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ba8a03daba80549aaac45c10bb5839
+      internalID: 887988760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White2x_42
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 125.833336
+        width: 105.77778
+        height: 125.166664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c37b161dbe263844aab4e0838552216
+      internalID: 1729041419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White2x_43
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 125.833336
+        width: 105.77778
+        height: 125.166664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 270181c1b0ef1994baf59823175b7d9c
+      internalID: 750677983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White2x_44
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 125.833336
+        width: 105.77778
+        height: 125.166664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a31def160fcb63409ea785a5a5375bc
+      internalID: 650828873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White2x_45
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0.8333359
+        width: 105.77778
+        height: 125.166664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3747b3c3f52e3a4d9e70c9e68323c00
+      internalID: -2100274346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White2x_46
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 0.8333359
+        width: 105.77778
+        height: 125.166664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559888fe586db4f499c02a0d7444124e
+      internalID: -44343554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White2x_47
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 0.8333359
+        width: 105.77778
+        height: 125.166664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ed0f295258a66498358e0a9fc7a049
+      internalID: -1065539154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White2x_48
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 0.8333359
+        width: 105.77778
+        height: 125.166664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a47069810e1ef4fb336020cf281fb4
+      internalID: -1366236868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White2x_49
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 0.8333359
+        width: 105.77778
+        height: 125.166664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf859b692feae74cb8eb837325eb1e1
+      internalID: -39111808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White2x_50
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 0.8333359
+        width: 105.77778
+        height: 125.166664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 395720a34ac0b81479acdf6be4c2134e
+      internalID: -2098292754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White2x_51
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 0.8333359
+        width: 105.77778
+        height: 125.166664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7cab043548d5b24387c2abcb167a539
+      internalID: 741617779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White2x_52
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 0.8333359
+        width: 105.77778
+        height: 125.166664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b7af62545817144ea31dd9724b4fd2a
+      internalID: -919273087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White2x_53
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 0.8333359
+        width: 105.77778
+        height: 125.166664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d98cde6d15a7ba409f28a326b115868
+      internalID: 1612013856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      White2x_49: -39111808
+      White2x_5: 1861764711
+      White2x_9: -538673564
+      White2x_43: 750677983
+      White2x_39: -695061590
+      White2x_20: -1318209661
+      White2x_42: 1729041419
+      White2x_40: -1112171275
+      White2x_6: -1634301851
+      White2x_35: 356626359
+      White2x_51: 741617779
+      White2x_33: 684362373
+      White2x_14: -2127916425
+      White2x_22: 330414372
+      White2x_29: 1131392723
+      White2x_23: -513882253
+      White2x_13: -2074434702
+      White2x_3: 1029913776
+      White2x_11: 552298326
+      White2x_27: -1169242547
+      White2x_4: -802058500
+      White2x_24: 50629711
+      White2x_0: 26794818
+      White2x_36: 53914859
+      White2x_8: 2098883655
+      White2x_41: 887988760
+      White2x_15: -350380668
+      White2x_16: 1879786778
+      White2x_34: -1193895856
+      White2x_2: -1425557832
+      White2x_46: -44343554
+      White2x_48: -1366236868
+      White2x_37: 1474180251
+      White2x_50: -2098292754
+      White2x_31: 615900914
+      White2x_10: 836634440
+      White2x_19: -275295531
+      White2x_1: 947055490
+      White2x_18: -589372022
+      White2x_25: 181054276
+      White2x_21: -504470206
+      White2x_26: -1259186140
+      White2x_32: 738277378
+      White2x_47: -1065539154
+      White2x_28: -316611028
+      White2x_52: -919273087
+      White2x_7: -877316808
+      White2x_45: -2100274346
+      White2x_17: -428112789
+      White2x_12: 801435148
+      White2x_44: 650828873
+      White2x_53: 1612013856
+      White2x_30: 157680152
+      White2x_38: -1952927662
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
