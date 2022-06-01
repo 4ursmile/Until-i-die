@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 49a5211fbe1812a429ec80b60f437265
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Quilt*Patches
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 86dc67da1f5dbf04b8f356f02b6ddba4, type: 3}
+  - {fileID: 12800000, guid: b8269967b99761b4289e750a3f34ae28, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
